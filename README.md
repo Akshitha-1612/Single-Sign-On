@@ -1,55 +1,56 @@
-# Single-Sign-On(SSO)
+# 🔐 Single Sign-On (SSO)
 
-A secure authentication system enabling users to access multiple applications with a single login. Features include multi-factor authentication (MFA), role-based access control, robust session management, and strong security practices.
+A secure authentication system enabling users to access multiple applications with a single login. Features include Multi-Factor Authentication (MFA), Role-Based Access Control, robust session management, and strong security practices.
 
-Features
-1.Single Sign-On: Seamless login to multiple applications with one set of credentials
+---
 
-2.Multi-Factor Authentication (MFA): Optional MFA for enhanced security
+## 🚀 Features
 
-3.Role-Based Access Control: Fine-grained authorization management
+1. **Single Sign-On**: Seamless login to multiple applications with one set of credentials  
+2. **Multi-Factor Authentication (MFA)**: Optional MFA for enhanced security  
+3. **Role-Based Access Control**: Fine-grained authorization management  
+4. **Session Management**: Single logout (SLO), session timeout, and inactivity logout  
+5. **Security**: Encrypted communication, secure token storage (JWT), and protection against common threats  
 
-4.Session Management: Single logout (SLO), session timeout, and inactivity logout
+---
 
-5.Security: Encrypted communication, secure token storage (JWT), and protection against common threats
+## 🛠️ Tech Stack
 
-Tech Stack
-1.Frontend: React.js
+- **Frontend**: React.js  
+- **Backend**: Node.js, Express.js  
+- **Database**: MongoDB  
+- **Authentication**: JWT (JSON Web Token)  
+- **Security**: HTTPS, encryption standards  
 
-2.Backend: Node.js, Express.js
+---
 
-3.Database: MongoDB
+## 📘 Usage
 
-4.Authentication: JWT (JSON Web Token)
+1. Register a new user or log in using SSO  
+2. Access multiple integrated applications without repeated logins  
+3. Manage roles and permissions via the admin dashboard  
+4. Experience secure session handling and automatic logout on inactivity  
 
-5.Security: HTTPS, encryption standards
+---
 
-Usage
-1.Register a new user or log in using SSO.
+## 🛡️ Security Highlights
 
-2.Access multiple integrated applications without repeated logins.
+1. All communication over HTTPS  
+2. JWT-based stateless authentication  
+3. Secure token storage and handling  
+4. Protection against common web vulnerabilities (e.g., XSS, CSRF)  
 
-3.Manage roles and permissions via the admin dashboard.
+---
 
-4.Experience secure session handling and automatic logout on inactivity.
+## ⚠️ Challenges Addressed
 
-Security Highlights
-1.All communication over HTTPS
+1. Secure token storage  
+2. Effective session timeout and management  
 
-2.JWT-based stateless authentication
+---
 
-3.Secure token storage and handling
+## 🔮 Future Enhancements
 
-4.Protection against common web vulnerabilities (e.g., XSS, CSRF)
-
-Challenges Addressed
-1.Secure token storage
-
-2.Effective session timeout and management
-
-Future Enhancements
-1.Audit Logging: Track authentication and authorization activities
-
-2.Third-Party Identity Provider Integration: Google, Okta, etc.
-
-3.Adaptive Authentication: Dynamic security based on risk assessment
+1. **Audit Logging**: Track authentication and authorization activities  
+2. **Third-Party Identity Provider Integration**: Google, Okta, etc.  
+3. **Adaptive Authentication**: Dynamic security based on risk assessment  
