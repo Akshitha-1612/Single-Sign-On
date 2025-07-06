@@ -2,7 +2,6 @@
 
 A secure authentication system enabling users to access multiple applications with a single login. Features include Multi-Factor Authentication (MFA), Role-Based Access Control, robust session management, and strong security practices.
 
----
 
 ## 🚀 Features
 
