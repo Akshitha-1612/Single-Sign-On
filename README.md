@@ -11,7 +11,6 @@ A secure authentication system enabling users to access multiple applications wi
 4. **Session Management**: Single logout (SLO), session timeout, and inactivity logout  
 5. **Security**: Encrypted communication, secure token storage (JWT), and protection against common threats  
 
----
 
 ## 🛠️ Tech Stack
 
@@ -21,7 +20,6 @@ A secure authentication system enabling users to access multiple applications wi
 - **Authentication**: JWT (JSON Web Token)  
 - **Security**: HTTPS, encryption standards  
 
----
 
 ## 📘 Usage
 
@@ -30,7 +28,6 @@ A secure authentication system enabling users to access multiple applications wi
 3. Manage roles and permissions via the admin dashboard  
 4. Experience secure session handling and automatic logout on inactivity  
 
----
 
 ## 🛡️ Security Highlights
 
@@ -39,14 +36,12 @@ A secure authentication system enabling users to access multiple applications wi
 3. Secure token storage and handling  
 4. Protection against common web vulnerabilities (e.g., XSS, CSRF)  
 
----
 
 ## ⚠️ Challenges Addressed
 
 1. Secure token storage  
 2. Effective session timeout and management  
 
----
 
 ## 🔮 Future Enhancements
 
